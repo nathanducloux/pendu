@@ -1,6 +1,6 @@
 #on definit les thermes principaux
 import random
-choix = ["ordinateur","vollant","telephone","souris","tableau","accident","incendie","parapluie","feuille","soleil","musique","stylo","chanteur","batiment","fenetre","lumiere","anticonstitutionnel"]
+choix = ["ordinateur","vollant","telephone","souris","tableau","accident","incendie","parapluie","feuille","soleil","musique","stylo","chanteur","batiment","fenetre","lumiere","homeomorphisme","marshmallow","marcher","bonhomme","osteopathe","heure","cachalot","application","animation","qualiter","source","pessimiste","usage","carot","couverture","nounours","vegetarienne","canape","cabane","recompense"]
 solution = random.choice(choix)
 tentatives = 7
 affichage = ""
